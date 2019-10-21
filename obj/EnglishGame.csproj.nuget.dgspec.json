@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/EnglishGame.csproj": {}
+    "/Users/vanessafernandesdecarvalho/git/Simple-xEnglish/EnglishGame.csproj": {}
   },
   "projects": {
-    "/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/EnglishGame.csproj": {
+    "/Users/vanessafernandesdecarvalho/git/Simple-xEnglish/EnglishGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/EnglishGame.csproj",
+        "projectUniqueName": "/Users/vanessafernandesdecarvalho/git/Simple-xEnglish/EnglishGame.csproj",
         "projectName": "EnglishGame",
-        "projectPath": "/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/EnglishGame.csproj",
+        "projectPath": "/Users/vanessafernandesdecarvalho/git/Simple-xEnglish/EnglishGame.csproj",
         "packagesPath": "/Users/vanessafernandesdecarvalho/.nuget/packages/",
-        "outputPath": "/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/",
+        "outputPath": "/Users/vanessafernandesdecarvalho/git/Simple-xEnglish/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
