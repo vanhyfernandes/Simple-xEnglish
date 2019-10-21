@@ -1,0 +1,11 @@
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/bin/Debug/netcoreapp2.0/EnglishGame.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/bin/Debug/netcoreapp2.0/EnglishGame.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/bin/Debug/netcoreapp2.0/EnglishGame.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/bin/Debug/netcoreapp2.0/EnglishGame.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/bin/Debug/netcoreapp2.0/EnglishGame.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.3/EnglishGame/obj/Debug/netcoreapp2.0/EnglishGame.pdb
